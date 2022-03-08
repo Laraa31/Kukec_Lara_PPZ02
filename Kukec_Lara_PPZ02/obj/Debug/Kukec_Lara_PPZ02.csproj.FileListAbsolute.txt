@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\bin\Debug\Kukec_Lara_PPZ02.exe.config
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\bin\Debug\Kukec_Lara_PPZ02.exe
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\bin\Debug\Kukec_Lara_PPZ02.pdb
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.Form1.resources
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.exe
+C:\Users\ucenik\source\repos\Kukec_Lara_PPZ02\obj\Debug\Kukec_Lara_PPZ02.pdb
