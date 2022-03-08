@@ -30,7 +30,7 @@ namespace Kukec_Lara_PPZ02
 
         public override string ToString()
         {
-            String ispis = "Gazirano piće" + "\t Naziv pića: " + this.Naziv + "\t Količina pića: " + this.Kolicina
+            String ispis = "Alkoholno piće" + "\t Naziv pića: " + this.Naziv + "\t Količina pića: " + this.Kolicina
                 + "\t Pakiranje: " + this.Pakiranje + "\t Postotak: "+ this.Postotak+"% \t Cijena: " + this.Cijena + " Kn";
 
             return ispis;
